@@ -1,7 +1,7 @@
-# Nairobi House Price Prediction
+# Nairobi_House_Price_Prediction
 
 
-A complete machine learning pipeline for predicting residential property prices in Nairobi, Kenya. From web scraping to trained models, this project demonstrates end-to-end data science workflow for real estate price prediction.
+A complete machine learning pipeline for predicting residential property prices in Nairobi, Kenya. From web scraping to trained models, this project demonstrates an end-to-end data science workflow for real estate price prediction.
 
 ---
 
@@ -88,7 +88,7 @@ nairobi_property/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mwandikikepha/Nairobi_Properties.git
+git clone https://github.com/KMochama/Nairobi_Properties.git
 cd nairobi_property
 ```
 
@@ -213,7 +213,7 @@ python train_model.py
 2. **Size** (17.5%) - Larger properties command higher prices
 3. **Bedrooms** (17.0%) - Each bedroom adds value
 4. **Bathrooms** (9.4%) - Moderate impact
-5. **Location** (9.1%) - Varies by neighborhood
+5. **Location** (9.1%) - Varies by neighbourhood
 6. **Amenities** (1.4%) - Minimal impact
 
 ### Most Expensive Locations (Median Price)
@@ -289,7 +289,7 @@ The project includes publication-quality visualizations:
 
 All visualizations feature:
 - Million KES formatting for readability
-- Color gradients for visual appeal
+- Colour gradients for visual appeal
 - Grid lines for precise reading
 - Professional styling
 
@@ -297,10 +297,10 @@ All visualizations feature:
 
 
 ### Planned Improvements
-- Expand to much listings from multiple sources
+- Expand too much listings from multiple sources
 - Add GPS coordinates for better location features
 - Implement time-series analysis for market trends
-- Build interactive Streamlit web app
+- Build an interactive Streamlit web app
 - Try XGBoost for potential accuracy gains
 - Add property condition and age features
 
@@ -310,7 +310,7 @@ All visualizations feature:
 
 ### For Home Buyers
 - Evaluate if a property is fairly priced
-- Compare prices across neighborhoods
+- Compare prices across neighbourhoods
 - Budget effectively for desired locations
 
 ### For Sellers
@@ -329,7 +329,7 @@ All visualizations feature:
 - Forecast returns on development projects
 
 ### For Researchers
-- Analyze Nairobi real estate market trends
+- Analyze the Nairobi real estate market trends
 - Study feature-price relationships
 - Generate policy insights
 
@@ -351,10 +351,10 @@ Contributions, suggestions, and feedback are welcome!
 
 ##  Author
 
-**Kepha Mwandiki**  
-Data Engineer
+**Kevin Mochama**  
+Data Analyst |Data Engineer
 
-- GitHub: [@mwandikikepha](https://github.com/mwandikikepha)
-- Project: [Nairobi Properties](https://github.com/mwandikikepha/Nairobi_Properties)
+- GitHub: [@KMochama](https://github.com/KMochama)
+- Project: [Nairobi Properties](https://github.com/KMochama/Nairobi_Properties)
 
 ---
