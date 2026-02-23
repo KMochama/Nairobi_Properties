@@ -372,7 +372,7 @@ Contributions, suggestions, and feedback are welcome!
 **Kevin Osioma**  
 Data Analyst || Big Data Engineer
 
-- GitHub: [@mwandikikepha](https://github.com/KMochama)
+- GitHub: [@KMochama](https://github.com/KMochama)
 - Project: [Nairobi Properties](https://github.com/KMochama/Nairobi_Properties)
 
 ---
