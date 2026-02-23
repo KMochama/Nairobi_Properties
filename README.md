@@ -131,7 +131,7 @@ The app will open in your browser at `http://localhost:8501`
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mwandikikepha/Nairobi_Properties.git
+git clone https://github.com/KMochama/Nairobi_Properties.git
 cd nairobi_property
 ```
 
