@@ -4,13 +4,13 @@
 ![ML](https://img.shields.io/badge/ML-Scikit--learn-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-A complete machine learning pipeline for predicting residential property prices in Nairobi, Kenya. From web scraping to trained models, this project demonstrates end-to-end data science workflow for real estate price prediction.
+A complete machine learning pipeline for predicting residential property prices in Nairobi, Kenya. From web scraping to trained models, this project demonstrates an end-to-end data science workflow for real estate price prediction.
 
 ---
 
 ##  Project Overview
 
-This project predicts house prices in Nairobi based on property features like location, size, bedrooms, and amenities. The system includes:
+This project predicts house prices in Nairobi based on property features such as location, size, number of bedrooms, and amenities. The system includes:
 
 - **Web scraper** for collecting property listings from Property24.co.ke
 - **Data cleaning pipeline** removing outliers and standardizing formats
@@ -104,7 +104,7 @@ An intuitive Streamlit-powered interface for instant property price predictions:
 ### Key Features
 -  **Modern UI** - Clean design with gradient styling and intuitive controls
 -  **Real-time Predictions** - Get price estimates instantly as you adjust parameters
--  **Market Insights** - View top expensive areas and price trends by bedroom count
+-  **Market Insights** - View the top expensive areas and price trends by bedroom count
 -  **Interactive Charts** - Dynamic visualizations powered by Plotly
 -  **Price Range** - Confidence intervals based on model performance
 -  **Price per Sqft** - Understand cost efficiency of properties
@@ -320,10 +320,10 @@ All visualizations feature:
 
 
 ### Planned Improvements
-- Expand to much listings from multiple sources
+- Expand too much listings from multiple sources
 - Add GPS coordinates for better location features
 - Implement time-series analysis for market trends
-- Build interactive Streamlit web app
+- Build an interactive Streamlit web app
 - Try XGBoost for potential accuracy gains
 - Add property condition and age features
 
@@ -352,7 +352,7 @@ All visualizations feature:
 - Forecast returns on development projects
 
 ### For Researchers
-- Analyze Nairobi real estate market trends
+- Analyze the Nairobi real estate market trends
 - Study feature-price relationships
 - Generate policy insights
 
@@ -366,11 +366,11 @@ Contributions, suggestions, and feedback are welcome!
 
 ##  Author
 
-**Kepha Mwandiki**  
-Data Engineer
+**Kevin Osioma**  
+Data Analyst || Big Data Engineer
 
-- GitHub: [@mwandikikepha](https://github.com/mwandikikepha)
-- Project: [Nairobi Properties](https://github.com/mwandikikepha/Nairobi_Properties)
+- GitHub: [@mwandikikepha](https://github.com/KMochama)
+- Project: [Nairobi Properties](https://github.com/KMochama/Nairobi_Properties)
 
 ---
 
