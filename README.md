@@ -94,12 +94,13 @@ nairobi_property/
 An intuitive Streamlit-powered interface for instant property price predictions:
 
 ### Home Screen
-![Streamlit Home](screenshots/1st_page.png) <img width="1796" height="849" alt="1st_page" src="https://github.com/user-attachments/assets/88882c0e-08f1-49ae-ba86-d1802794663d" />
+<img width="1796" height="849" alt="1st_page" src="https://github.com/user-attachments/assets/88882c0e-08f1-49ae-ba86-d1802794663d" />
  
 *User-friendly interface with property specification form and market insights*
 
 ### Price Prediction
-![Prediction Result](screenshots/prediction.png)
+<img width="660" height="231" alt="output1" src="https://github.com/user-attachments/assets/e8b43546-9296-4256-934a-824f742888f7" />
+
 *Instant price estimates with confidence intervals and detailed property summary*
 
 ### Key Features
@@ -174,7 +175,8 @@ interpret_prediction(prediction, 3, 'Westlands', 'Apartment', 1500)
 
 **Output:**
 
-![Prediction Result](screenshots/output1.png)
+<img width="1311" height="851" alt="prediction" src="https://github.com/user-attachments/assets/271ed293-9cee-4e06-8288-c7781d480c62" />
+
 
 ```
 
