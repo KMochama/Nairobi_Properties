@@ -10,7 +10,7 @@ A complete machine learning pipeline for predicting residential property prices 
 
 ##  Project Overview
 
-This project predicts house prices in Nairobi based on property features such as location, size, number of bedrooms, and amenities. The system includes:
+This project predicts house prices in Nairobi using features such as location, size, number of bedrooms, and amenities. The system includes:
 
 - **Web scraper** for collecting property listings from Property24.co.ke
 - **Data cleaning pipeline** removing outliers and standardizing formats
@@ -94,7 +94,8 @@ nairobi_property/
 An intuitive Streamlit-powered interface for instant property price predictions:
 
 ### Home Screen
-![Streamlit Home](screenshots/1st_page.png)
+![Streamlit Home](screenshots/1st_page.png) <img width="1796" height="849" alt="1st_page" src="https://github.com/user-attachments/assets/88882c0e-08f1-49ae-ba86-d1802794663d" />
+ 
 *User-friendly interface with property specification form and market insights*
 
 ### Price Prediction
