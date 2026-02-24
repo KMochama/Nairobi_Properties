@@ -110,6 +110,3 @@ The following features were created during data cleaning and feature engineering
 - **Use Case:** Identify if certain months have higher/lower prices
 
 ---
-
-**Created:** February 17, 2026  
-**Used in:** Day 3+ modeling
